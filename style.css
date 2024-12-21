@@ -266,3 +266,8 @@ img {
     padding: 0 2rem;
 }
 
+/* Text Styles */
+.text-xl {
+    font-size: 2rem;
+}
+
