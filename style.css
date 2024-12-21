@@ -228,4 +228,9 @@ img {
     overflow: auto;
 }
 
+.footer,
+.footer a {
+    color: #999;
+    font-size: 0.9rem;
+}
 
