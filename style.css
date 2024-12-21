@@ -281,3 +281,12 @@ img {
     font-size: 1.2rem;
 }
 
+.text-center {
+    text-align: center;
+}
+
+.text-dark {
+    color: #999;
+}
+
+/* Buttons */
