@@ -147,3 +147,10 @@ img {
     border-bottom: var(--primary-color) 4px solid;
 }
 
+.tab-content {
+    padding: 3rem 0;
+    background: #000;
+    color: #fff;
+}
+
+/* Hide initial content */
