@@ -244,3 +244,7 @@ img {
     grid-gap: 2rem;
 }
 
+.footer li {
+    line-height: 1.9;
+}
+
