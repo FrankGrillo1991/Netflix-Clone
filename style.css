@@ -167,4 +167,12 @@ img {
     transition: all 1000 ease-in;
 }
 
+#tab-1-content .tab-content-inner {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 2rem;
+    align-items: center;
+    justify-content: center;
+}
+
 
