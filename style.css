@@ -134,3 +134,7 @@ img {
     padding-top: 0.5rem;
 }
 
+.tabs .container > div {
+    padding: 1.5rem 0;
+}
+
