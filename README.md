@@ -1,0 +1,1 @@
+Netflix Clone developed with HTML, CSS & JavaScript
